@@ -4,7 +4,8 @@ public class Main {
         int b = 10;
         int somme = a + b;
 
-        System.out.println("--- Programme Java : Calcul de Somme ---");
+        System.out.println("--- Login et calcul");
+        System.out.println("Fonctionnalité login activée sur la branche feature/login");
         System.out.println("La somme de " + a + " et " + b + " est : " + somme); 
     }
 }
